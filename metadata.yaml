@@ -1,0 +1,46 @@
+_repo: The-luck-of-the-bean-rows_72332
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fraser, Claud Lovat
+    aliases:
+    - Lovat Fraser, Claud
+    - Fraser, C. Lovat (Claud Lovat)
+    - Fraser, Lovat Claud
+    - Fraser, L. C. (Lovat Claud)
+    birthdate: 1890
+    deathdate: 1921
+    gutenberg_agent_id: '26493'
+    url: http://www.gutenberg.org/2009/agents/26493
+    wikipedia: https://en.wikipedia.org/wiki/Claud_Lovat_Fraser
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles_Nodier
+    - https://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72332'
+language: en
+pgterms:marc904: https://archive.org/details/luckofbeanrowsfa00nodi/
+pgterms:marc905: 20211123052358nodier
+pgterms:marc906: '1921'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bDaniel O''Connor, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The luck of the bean-rows
+url: http://www.gutenberg.org/ebooks/72332
