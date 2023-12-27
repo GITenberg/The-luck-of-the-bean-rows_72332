@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '26493'
     url: http://www.gutenberg.org/2009/agents/26493
     wikipedia: https://en.wikipedia.org/wiki/Claud_Lovat_Fraser
+covers:
+- cover_type: archival
+  image_path: 72332-h/images/cover.jpg
 creator:
   author:
     agent_name: Nodier, Charles
@@ -25,6 +28,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Charles_Nodier
     - https://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72332#The-luck-of-the-bean-rows
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72332'
